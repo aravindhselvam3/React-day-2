@@ -29,14 +29,7 @@ const notes = [
     {text:"Monthly Status Reports",important:false},
     ]
   },
-//   Unlimited Users
-// 150GB Storage
-// Unlimited Public Projects
-// Community Access
-// Unlimited Private Projects
-// Dedicated Phone Support
-// Unlimited Free Subdomains
-// Monthly Status Reports
+
   {
     id:3,
     content:'PLUS',
